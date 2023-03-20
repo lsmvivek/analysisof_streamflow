@@ -1,6 +1,6 @@
 # analysisof_streamflow
-Course work project of Surface Hydrology
-
+Course work project of Surface Hydrology CE 203
+ 
 Sheet	Data type
 1.	Max daily temp
 2.	Minimum Daily Temperature 
